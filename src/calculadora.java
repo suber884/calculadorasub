@@ -70,7 +70,10 @@ public String getNombre() {
         double multip = numero1 * numero2;
         return multip;
     }
- 
+ public double dividir() { //metodo division
+        double dividir = numero1 / numero2;
+        return dividir;
+    }
     
     //comentario de prueba
    }
