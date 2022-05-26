@@ -66,7 +66,10 @@ public String getNombre() {
         double resta = numero1 - numero2;
         return resta;
     }
-
+   public double multip() { //metodo multiplicacion
+        double multip = numero1 * numero2;
+        return multip;
+    }
  
     
     //comentario de prueba
